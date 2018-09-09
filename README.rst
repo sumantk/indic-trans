@@ -63,6 +63,7 @@ Clone & Install
         cd indic-trans
         pip install -r requirements.txt
         python setup.py install
+	python setup.py build_ext --inplace
 
 Examples
 --------
